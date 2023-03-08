@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ankityadav/static/css/main.83f38c5d.css",
+    "main.js": "/ankityadav/static/js/main.82c59691.js",
+    "index.html": "/ankityadav/index.html",
+    "main.83f38c5d.css.map": "/ankityadav/static/css/main.83f38c5d.css.map",
+    "main.82c59691.js.map": "/ankityadav/static/js/main.82c59691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f38c5d.css",
+    "static/js/main.82c59691.js"
+  ]
+}
